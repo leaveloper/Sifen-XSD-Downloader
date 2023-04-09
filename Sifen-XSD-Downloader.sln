@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sifen-XSD-Downloader", "Sifen-XSD-Downloader.csproj", "{DADB2BC9-33D8-4FA2-BF8C-6F93BD653892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADB2BC9-33D8-4FA2-BF8C-6F93BD653892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADB2BC9-33D8-4FA2-BF8C-6F93BD653892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADB2BC9-33D8-4FA2-BF8C-6F93BD653892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADB2BC9-33D8-4FA2-BF8C-6F93BD653892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7B91295-63DF-4AE5-A8B0-DFCD3567C74D}
+	EndGlobalSection
+EndGlobal
